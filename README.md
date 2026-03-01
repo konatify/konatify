@@ -11,6 +11,7 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 | **✨ Emojiscrub** | Favourite web-game | [Visit Emojiscrub](https://escrub.astrarune.com) |
 | **🕯️ Moonlight Addons** | Adding more commands to Command Prompt. | [Download Now](https://maddons.astrarune.com/home) |
 | **🌐 Zandovo** | The official homepage for everything I build. | [Explore More](https://zandovo.com) |
+| **📍 ZanProxyPlus** | Use websites without it knowing your IP. | [Visit](https://zanproxy.zandovo.com) |
 
 ---
 
@@ -21,6 +22,7 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
 
 ---
 
