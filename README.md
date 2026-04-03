@@ -8,9 +8,8 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **✨ Emojiscrub** | Favourite web-game | [Visit Emojiscrub](https://escrub.astrarune.com) |
-| **🕯️ Moonlight Addons** | Adding more commands to Command Prompt. | [Download Now](https://maddons.astrarune.com/home) |
-| **🌐 Zandovo** | The official homepage for everything I build. | [Explore More](https://zandovo.com) |
+| **⚠️ Emojiscrub** | Favourite web-game *Archived* | [Visit Emojiscrub](https://escrub.astrarune.com) |
+| **⚠️ Moonlight Addons** | Adding more commands to Command Prompt. *Archived* | [Download Now](https://maddons.astrarune.com/home) |
 | **⌨️ Monkeytype Goals** | Set goals for Monkeytype to achieve. | [Visit](https://mtgoals.cc) |
 
 ---
@@ -26,19 +25,18 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 
 ---
 
-### 🖥️ My Operating System
+### 🖥️ System stuff
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![KDE Neon](https://img.shields.io/badge/KDE%20Neon-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![NomadBSD](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white) 
+![DELL](https://img.shields.io/badge/dell-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+![Macbook Neo / Apple](https://img.shields.io/badge/macbook%20neo-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-(Basically, I use KDE Neon which is Ubuntu.)
+In words, I use NomadBSD on my DELL computer, but I also use a Macbook Neo.
 
 ---
 
 ### 📬 Get in Touch
 
-- **Website:** [zandovo.com](https://zandovo.com)
 - **Email:** [dev@mtgoals.cc](mailto:dev@mtgoals.cc)
 
 ---
