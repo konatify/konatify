@@ -8,8 +8,8 @@ I'm a developer and the creator of **Zandovo** (formerly, Astrarune), a hub for 
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **⚠️ Emojiscrub** | Favourite web-game *Archived* | [Visit Emojiscrub](https://escrub.astrarune.com) |
-| **⚠️ Moonlight Addons** | Adding more commands to Command Prompt. *Archived* | [Download Now](https://maddons.astrarune.com/home) |
+| **🔗 mtype** | mtype is a link shortener for Monkeytype profiles. | [Visit](https://mtype.mtgoals.cc) |
+| **🎨 Monkeytype Themes** | Post & Use other peoples themes for Monkeytype. | [Visit](https://mtthemes.mtgoals.cc) |
 | **⌨️ Monkeytype Goals** | Set goals for Monkeytype to achieve. | [Visit](https://mtgoals.cc) |
 
 ---
