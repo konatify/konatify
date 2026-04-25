@@ -6,7 +6,7 @@ I'm a developer and the creator of **Monkeytype Projects** a website where I can
 
 ### 🐒 Monkeytype
 
-![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=madokify&theme=serika_dark&wordValue=10&timeValue=15)
+[![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=madokify&theme=serika_dark&wordValue=10&timeValue=15)](https://mtype.cc/madokify)
 
 ### 🚀 Featured Projects
 
