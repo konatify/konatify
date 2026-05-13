@@ -22,8 +22,3 @@ I'm a developer and the creator of **Monkeytype Projects** a website where I can
 ### 📬 Get in Touch
 
 - **Email:** [py@astrarune.com](mailto:py@astrarune.com)
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiirod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
