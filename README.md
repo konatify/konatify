@@ -1,4 +1,4 @@
-# Hi there, I'm Lily! 👋 🏳️‍⚧️
+# Hi there, I'm Gracie! 👋 🏳️‍⚧️
 
 I'm a developer and the creator of **Monkeytype Projects** a website where I can show off all my cool projects for Monkeytype.
 
@@ -6,7 +6,7 @@ I'm a developer and the creator of **Monkeytype Projects** a website where I can
 
 ### 🐒 Monkeytype
 
-[![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=madokify&theme=serika_dark&wordValue=10&timeValue=15)](https://mtype.cc/madokify)
+[![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=kiirod&theme=serika_dark&wordValue=10&timeValue=15)](https://mtype.cc/kiirod)
 
 ### 🚀 Featured Projects
 
@@ -25,5 +25,5 @@ I'm a developer and the creator of **Monkeytype Projects** a website where I can
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pypppe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kiirod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
