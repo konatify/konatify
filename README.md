@@ -7,6 +7,8 @@ I'm a developer and the creator of **Monkeytype Projects** a website where I can
 ### 🐒 Monkeytype
 
 [![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=kiirod&theme=serika_dark&wordValue=10&timeValue=60)](https://mtype.cc/kiirod)
+---
+[![mtype](https://mtype.cc/badge/kiirod)](https://mtype.cc/kiirod)
 
 ### 🚀 Featured Projects
 
