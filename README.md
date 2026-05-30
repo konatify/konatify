@@ -1,28 +1,44 @@
-# hello bro im kiirod
+<div align="center">
 
-I'm a developer and the creator of **Monkeytype Projects** a website where I can show off all my cool projects for Monkeytype.
+# Kiirod
+
+You can also call me Elliot.
+
+<br>
+
+<a href="https://mtype.cc/kiirod">
+  <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=kiirod&theme=serika_dark&wordValue=10&timeValue=60">
+</a>
+
+<br>
+
+<a href="https://mtype.cc/kiirod">
+  <img src="https://mtype.cc/badge/kiirod">
+</a>
+
+</div>
 
 ---
 
-### Monkeytype
+## Hi
 
-[![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=kiirod&theme=serika_dark&wordValue=10&timeValue=60)](https://mtype.cc/kiirod)
+I make websites.
+
+Most of them are for Monkeytype because that's what I spend a lot of my time on.
+
+Sometimes I make something because I need it.
+Sometimes I make something because nobody else has made it yet. </br>
+[Check](https://home.mtgoals.cc) em out though (ouuu shii, optional if u dindt know)
+
+## some facts or something ion know bro
+
+- I use Fedora **KDE** not stinky gn*me.
+- im a FEMBOY (wow earth ending wow man holy fuck ur disgraceful wow grrr)
+- like i alreayd said u can call me elliot or some shi
+- my Discord is kiirod. and i talk too muc in the monkeytype server
+
 ---
-[![mtype](https://mtype.cc/badge/kiirod)](https://mtype.cc/kiirod)
 
-### Featured Projects
+## Contact
 
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **mtype** | mtype is a link shortener for Monkeytype profiles. | [Visit](https://mtype.mtgoals.cc) |
-| **Monkeytype Themes** | Post & Use other peoples themes for Monkeytype. | [Visit](https://mtthemes.mtgoals.cc) |
-| **Monkeytype Goals** | Set goals for Monkeytype to achieve. | [Visit](https://mtgoals.cc) |
-| **Monkeytype Projects** | Homepage for all of this. | [Visit](https://home.mtgoals.cc) |
-
----
-
-### talk with ME
-
-- **Email:** [py@astrarune.com](mailto:py@astrarune.com)
-</br>
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ all legit
+email me or some shi with py@astrarune.com or some ion know
