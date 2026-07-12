@@ -1,5 +1,15 @@
 <div align="center">
 
+<a href="https://console.mtgp.cc">
+  <img src="https://console.mtgp.cc/images/cinnabanner.png" width="500">
+</a>
+
+<br>
+
+<a href="https://discord.gg/myvSFGwcXf">
+  <img src="https://cdn.mtgoals.cc/images/kiirodserver.png" width="500">
+</a>
+
 <br>
 
 <a href="https://mtype.cc/kiirod">
@@ -16,6 +26,8 @@
 
 ---
 [Monkeytype Projects](https://www.mtgp.cc)
+<br>
+[OpenCinnamon](https://github.com/opencinnamon)
 
 ## Contact
 hi@mtype.cc
