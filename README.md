@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="https://mtype.cc/kiirod">
+<!-- <a href="https://mtype.cc/kiirod">
   <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=kiirod&theme=serika_dark&wordValue=10&timeValue=60">
 </a>
 
@@ -24,11 +24,12 @@
 
 </div>
 
+I dont really play Monkeytype anymore -->
+
 ---
 [Monkeytype Projects](https://www.mtgp.cc)
 <br>
 [OpenCinnamon](https://github.com/opencinnamon)
 
 ## Contact
-hi@mtype.cc
-py@astrarune.com
+ki@cinnasole.com
